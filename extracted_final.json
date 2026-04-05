@@ -1,0 +1,3746 @@
+{
+  "excel": {
+    "🏠 PAINEL": [
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "META ANUAL\r\nMKTPLACES",
+        "__EMPTY_3": "REAL ANUAL\r\nMKTPLACES",
+        "__EMPTY_7": "ATG%\r\nvs Meta",
+        "__EMPTY_11": "ACOS\r\nMEDIO"
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "📅  RECEITA MARKETPLACE POR MÊS — META × REAL"
+      },
+      {
+        "__EMPTY": "JAN",
+        "__EMPTY_1": "FEV",
+        "__EMPTY_2": "MAR",
+        "__EMPTY_3": "ABR",
+        "__EMPTY_4": "MAI",
+        "__EMPTY_5": "JUN",
+        "__EMPTY_6": "JUL",
+        "__EMPTY_7": "AGO",
+        "__EMPTY_8": "SET",
+        "__EMPTY_9": "OUT",
+        "__EMPTY_10": "NOV",
+        "__EMPTY_11": "DEZ",
+        "__EMPTY_12": "TOTAL"
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "META (R$)",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0,
+        "__EMPTY_14": 0
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "REAL (R$)",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0,
+        "__EMPTY_14": 0
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "ATG%",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0,
+        "__EMPTY_14": 0
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "ADS (R$)",
+        "__EMPTY": "",
+        "__EMPTY_1": "",
+        "__EMPTY_2": "",
+        "__EMPTY_3": "",
+        "__EMPTY_4": "",
+        "__EMPTY_5": "",
+        "__EMPTY_6": "",
+        "__EMPTY_7": "",
+        "__EMPTY_8": "",
+        "__EMPTY_9": "",
+        "__EMPTY_10": "",
+        "__EMPTY_11": "-",
+        "__EMPTY_14": "-"
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "ACOS",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0,
+        "__EMPTY_14": "-"
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "🛒  CANAIS — SHARE % (defina o share de cada canal)"
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "Canal",
+        "__EMPTY": "Share %",
+        "__EMPTY_1": "Meta Estimada (R$)"
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "Mercado Livre",
+        "__EMPTY_1": 0
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "Shopee",
+        "__EMPTY_1": 0
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "Amazon",
+        "__EMPTY_1": 0
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "Magalu",
+        "__EMPTY_1": 0
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "2P / Full",
+        "__EMPTY_1": 0
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "📅  MACRO-CALENDÁRIO SAZONAL"
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "JAN",
+        "__EMPTY": "FEV",
+        "__EMPTY_1": "MAR",
+        "__EMPTY_2": "ABR",
+        "__EMPTY_3": "MAI",
+        "__EMPTY_4": "JUN",
+        "__EMPTY_5": "JUL",
+        "__EMPTY_6": "AGO",
+        "__EMPTY_7": "SET",
+        "__EMPTY_8": "OUT",
+        "__EMPTY_9": "NOV",
+        "__EMPTY_10": "DEZ"
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "Verão",
+        "__EMPTY": "Verão /\r\nCarnaval",
+        "__EMPTY_1": "Mês do\r\nConsumidor",
+        "__EMPTY_2": "Páscoa",
+        "__EMPTY_3": "Dia das\r\nMães",
+        "__EMPTY_4": "Dia dos\r\nNamorados",
+        "__EMPTY_5": "Copa /\r\nFérias",
+        "__EMPTY_6": "Dia dos\r\nPais",
+        "__EMPTY_7": "Mês do\r\nCliente",
+        "__EMPTY_8": "Oktoberfest",
+        "__EMPTY_9": "Black\r\nFriday",
+        "__EMPTY_10": "Natal"
+      },
+      {
+        "🛒  MARKETPLACE  — PAINEL EXECUTIVO": "📌  ABAS: 🏠 PAINEL  |  📋 PLANO ESTRATÉGICO  |  📅 TÁTICO SAZONAL  |  📊 ANUAL MKTPLACES  |  🛒 CANAIS  |  📆 Q2 DIÁRIO  |  📈 SEMANAL"
+      }
+    ],
+    "📋 PLANO ESTRATÉGICO": [
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "MACRO\r\nENTREGAS",
+        "__EMPTY": "Verão",
+        "__EMPTY_1": "Verão /\r\nCarnaval",
+        "__EMPTY_2": "Mês do\r\nConsumidor",
+        "__EMPTY_3": "Páscoa",
+        "__EMPTY_4": "Dia das\r\nMães",
+        "__EMPTY_5": "Dia dos\r\nNamorados",
+        "__EMPTY_6": "Copa /\r\nFérias",
+        "__EMPTY_7": "Dia dos\r\nPais",
+        "__EMPTY_8": "Mês do\r\nCliente",
+        "__EMPTY_9": "Oktoberfest",
+        "__EMPTY_10": "Black\r\nFriday",
+        "__EMPTY_11": "Natal",
+        "__EMPTY_12": "TOTAL"
+      },
+      {
+        "__EMPTY": "JAN",
+        "__EMPTY_1": "FEV",
+        "__EMPTY_2": "MAR",
+        "__EMPTY_3": "ABR",
+        "__EMPTY_4": "MAI",
+        "__EMPTY_5": "JUN",
+        "__EMPTY_6": "JUL",
+        "__EMPTY_7": "AGO",
+        "__EMPTY_8": "SET",
+        "__EMPTY_9": "OUT",
+        "__EMPTY_10": "NOV",
+        "__EMPTY_11": "DEZ"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "▶  META ANUAL — RECEITA"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "Receita META 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "Receita REAL 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "ATG% vs Meta 2025",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "YOY% 2025 (coluna livre)",
+        "__EMPTY": "",
+        "__EMPTY_1": "",
+        "__EMPTY_2": "",
+        "__EMPTY_3": "",
+        "__EMPTY_4": "",
+        "__EMPTY_5": "",
+        "__EMPTY_6": "",
+        "__EMPTY_7": "",
+        "__EMPTY_8": "",
+        "__EMPTY_9": "",
+        "__EMPTY_10": "",
+        "__EMPTY_11": "",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "Receita META 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "Receita REAL 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "ATG% vs Meta 2026",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "YOY% 2026 vs 2025",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "▶  ADS & MARKETING"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "Investimento ADS META 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "Investimento ADS REAL 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "ACOS META 2025",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "ACOS REAL 2025",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "ROAS REAL 2025",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "Investimento ADS META 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "Investimento ADS REAL 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "ACOS META 2026",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "ACOS REAL 2026",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "ROAS REAL 2026",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "▶  DISTRIBUIÇÃO POR CANAL — META 2026"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "Canal",
+        "__EMPTY": "JAN",
+        "__EMPTY_1": "FEV",
+        "__EMPTY_2": "MAR",
+        "__EMPTY_3": "ABR",
+        "__EMPTY_4": "MAI",
+        "__EMPTY_5": "JUN",
+        "__EMPTY_6": "JUL",
+        "__EMPTY_7": "AGO",
+        "__EMPTY_8": "SET",
+        "__EMPTY_9": "OUT",
+        "__EMPTY_10": "NOV",
+        "__EMPTY_11": "DEZ",
+        "__EMPTY_12": "TOTAL",
+        "__EMPTY_13": "Share%"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "Share % (definir)",
+        "__EMPTY_12": "100%"
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "Mercado Livre",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0,
+        "__EMPTY_12": 0
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "Shopee",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0,
+        "__EMPTY_12": 0
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "Amazon",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0,
+        "__EMPTY_12": 0
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "Magalu",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0,
+        "__EMPTY_12": 0
+      },
+      {
+        "📋  PLANO ESTRATÉGICO — MARKETPLACE MULTI-CANAL": "2P / Full",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0,
+        "__EMPTY_12": 0
+      }
+    ],
+    "📅 TÁTICO SAZONAL": [
+      {
+        "📅  PLANO TÁTICO SAZONAL — MARKETPLACE": "CATEGORIA",
+        "__EMPTY": "JAN",
+        "__EMPTY_1": "FEV",
+        "__EMPTY_2": "MAR",
+        "__EMPTY_3": "ABR",
+        "__EMPTY_4": "MAI",
+        "__EMPTY_5": "JUN",
+        "__EMPTY_6": "JUL",
+        "__EMPTY_7": "AGO",
+        "__EMPTY_8": "SET",
+        "__EMPTY_9": "OUT",
+        "__EMPTY_10": "NOV",
+        "__EMPTY_11": "DEZ"
+      },
+      {
+        "📅  PLANO TÁTICO SAZONAL — MARKETPLACE": "META MKTPLACES (R$)",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0
+      },
+      {
+        "📅  PLANO TÁTICO SAZONAL — MARKETPLACE": "Evento / Data",
+        "__EMPTY_3": "04/04 - Ação 4.4 Marketplaces",
+        "__EMPTY_4": "01/05 - Dia do Trabalho",
+        "__EMPTY_5": "06/06 - Ação 6.6 Marketplaces",
+        "__EMPTY_6": "07/07 - Ação 7.7 Marketplaces",
+        "__EMPTY_7": "08/08 - Ação 8.8 Marketplaces",
+        "__EMPTY_8": "09/09 - Ação 9.9 Marketplaces",
+        "__EMPTY_9": "10/10 - Ação 10.10 Marketplaces",
+        "__EMPTY_10": "11/11 - Ação 11.11 Marketplaces",
+        "__EMPTY_11": "12/12 - Ação 12.12 Marketplaces"
+      },
+      {
+        "__EMPTY_3": "05/04 - Páscoa ⭐",
+        "__EMPTY_4": "05/05 - Ação 5.5 Marketplaces",
+        "__EMPTY_5": "12/06 - Dia dos Namorados ⭐",
+        "__EMPTY_6": "09-11/07 - Quartas de Final Copa",
+        "__EMPTY_7": "09/08 - Dia dos Pais ⭐⭐",
+        "__EMPTY_8": "15/09 - Dia do Cliente ⭐",
+        "__EMPTY_9": "12/10 - Dia da Criança ⭐",
+        "__EMPTY_10": "27/11 - Black Friday 2026 ⭐⭐⭐",
+        "__EMPTY_11": "25/12 - Natal ⭐⭐"
+      },
+      {
+        "__EMPTY_3": "21/04 - Tiradentes",
+        "__EMPTY_4": "10/05 - Dia das Mães ⭐⭐",
+        "__EMPTY_5": "11/06 - Copa: 1º jogo Brasil",
+        "__EMPTY_6": "19/07 - Final Copa do Mundo ⭐",
+        "__EMPTY_7": "18/08 - Dia do Estagiário",
+        "__EMPTY_8": "07/09 - Independência do Brasil",
+        "__EMPTY_9": "31/10 - Halloween",
+        "__EMPTY_10": "30/11 - Cyber Monday",
+        "__EMPTY_11": "31/12 - Réveillon"
+      },
+      {
+        "__EMPTY_3": "28/04 - Dia do Frete Grátis"
+      },
+      {
+        "📅  PLANO TÁTICO SAZONAL — MARKETPLACE": "MACRO-OBJETIVOS ESTRATÉGICOS POR MÊS"
+      },
+      {
+        "📅  PLANO TÁTICO SAZONAL — MARKETPLACE": "Macro-Objetivos",
+        "__EMPTY_3": "Páscoa\r\nPrep. Copa\r\nCanal de reviews",
+        "__EMPTY_4": "Copa (prep.)\r\nNova plataforma\r\nNovos complementos",
+        "__EMPTY_5": "Copa do Mundo\r\nOtimização ADS\r\nExpansão portfólio",
+        "__EMPTY_6": "Final Copa\r\nProjeto arquitetos\r\nExpansão portfólio",
+        "__EMPTY_7": "Dia dos Pais ⭐\r\nPipeline Q4\r\nProjeto personaliz.",
+        "__EMPTY_8": "Mês do Cliente\r\nPrep. BF\r\nReview catálogo",
+        "__EMPTY_9": "Projetos especiais\r\nCampanha BF prep.\r\nReview preços",
+        "__EMPTY_10": "Black Friday ⭐⭐⭐\r\nCyber Monday\r\nNovembro intenso",
+        "__EMPTY_11": "Natal ⭐⭐\r\nReview anual\r\nPlanej. próximo ano"
+      }
+    ],
+    "📊 ANUAL MKTPLACES": [
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "📘 Azul = preencher  |  📙 Amarelo = meta  |  ⬛ Fórmulas calculam automaticamente"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "MÉTRICA",
+        "__EMPTY": "JAN",
+        "__EMPTY_1": "FEV",
+        "__EMPTY_2": "MAR",
+        "__EMPTY_3": "ABR",
+        "__EMPTY_4": "MAI",
+        "__EMPTY_5": "JUN",
+        "__EMPTY_6": "JUL",
+        "__EMPTY_7": "AGO",
+        "__EMPTY_8": "SET",
+        "__EMPTY_9": "OUT",
+        "__EMPTY_10": "NOV",
+        "__EMPTY_11": "DEZ",
+        "__EMPTY_12": "TOTAL"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "💰  RECEITA MARKETPLACE"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Receita META 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Receita REAL 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "ATG% vs Meta 2025",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "YOY% 2025 vs ano anterior",
+        "__EMPTY": "",
+        "__EMPTY_1": "",
+        "__EMPTY_2": "",
+        "__EMPTY_3": "",
+        "__EMPTY_4": "",
+        "__EMPTY_5": "",
+        "__EMPTY_6": "",
+        "__EMPTY_7": "",
+        "__EMPTY_8": "",
+        "__EMPTY_9": "",
+        "__EMPTY_10": "",
+        "__EMPTY_11": "",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Receita META 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Receita REAL 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "ATG% vs Meta 2026",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "YOY% 2026 vs 2025",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Rec. META Acum. 2025",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0,
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Rec. REAL Acum. 2025",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0,
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Rec. META Acum. 2026",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0,
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Rec. REAL Acum. 2026",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0,
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "📣  ADS & MARKETING"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Investimento ADS META 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Investimento ADS REAL 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "ACOS META 2025",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "ACOS REAL 2025",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "ROAS REAL 2025",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Investimento ADS META 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Investimento ADS REAL 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "ACOS META 2026",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "ACOS REAL 2026",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "ROAS REAL 2026",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "📈  VOLUME & CONVERSÃO"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Visitas Projetadas",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Visitas Reais",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "ATG% Visitas",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "# Pedidos / Transações",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Taxa de Conversão",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Ticket Médio Real (R$)",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "🛒  RECEITA REAL POR CANAL (R$)"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Mercado Livre",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Shopee",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Amazon",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Magalu",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "2P / Full",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "TOTAL CANAIS (check)",
+        "__EMPTY": 0,
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": 0,
+        "__EMPTY_5": 0,
+        "__EMPTY_6": 0,
+        "__EMPTY_7": 0,
+        "__EMPTY_8": 0,
+        "__EMPTY_9": 0,
+        "__EMPTY_10": 0,
+        "__EMPTY_11": 0,
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "  Share % por Canal"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Share Mercado Livre",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Share Shopee",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Share Amazon",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Share Magalu",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Share 2P / Full",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "🟢  ML HEALTH — DIAS POR STATUS MENSAL"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Dias Verde 🟢",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Dias Amarelo 🟡",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Dias Laranja 🟠",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "Dias Vermelho 🔴",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "💳  PERFIL DE PARCELAMENTO (# Transações)"
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "1x",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "2x",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "3x",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "4x",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "5x",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "6x",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "7x",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "8x",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "9x",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "10x",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "11x",
+        "__EMPTY_12": 0
+      },
+      {
+        "📊  ACOMPANHAMENTO ANUAL — MARKETPLACE": "12x",
+        "__EMPTY_12": 0
+      }
+    ],
+    "🛒 CANAIS": [
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "  MERCADO LIVRE"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "MÉTRICA",
+        "__EMPTY": "JAN",
+        "__EMPTY_1": "FEV",
+        "__EMPTY_2": "MAR",
+        "__EMPTY_3": "ABR",
+        "__EMPTY_4": "MAI",
+        "__EMPTY_5": "JUN",
+        "__EMPTY_6": "JUL",
+        "__EMPTY_7": "AGO",
+        "__EMPTY_8": "SET",
+        "__EMPTY_9": "OUT",
+        "__EMPTY_10": "NOV",
+        "__EMPTY_11": "DEZ",
+        "__EMPTY_12": "TOTAL"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita META 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita REAL 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita META 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita REAL 2026 (R$)",
+        "__EMPTY_1": 50602,
+        "__EMPTY_2": 60148,
+        "__EMPTY_3": 120000,
+        "__EMPTY_12": 230750
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ATG% Real vs Meta",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Investimento ADS (R$)",
+        "__EMPTY_1": 2259,
+        "__EMPTY_2": 3042,
+        "__EMPTY_3": 3042,
+        "__EMPTY_12": 8343
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ACOS (%)",
+        "__EMPTY": "-",
+        "__EMPTY_1": 0.04464250424884392,
+        "__EMPTY_2": 0.05057524772228503,
+        "__EMPTY_3": 0.02535,
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ROAS",
+        "__EMPTY": "-",
+        "__EMPTY_1": 22.40017706949978,
+        "__EMPTY_2": 19.77251808021039,
+        "__EMPTY_3": 39.447731755424066,
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "# Pedidos",
+        "__EMPTY_1": 264,
+        "__EMPTY_2": 335,
+        "__EMPTY_3": 335,
+        "__EMPTY_12": 934
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Ticket Médio (R$)",
+        "__EMPTY": "-",
+        "__EMPTY_1": 191.67424242424244,
+        "__EMPTY_2": 179.54626865671642,
+        "__EMPTY_3": 358.2089552238806,
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "  SHOPEE"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "MÉTRICA",
+        "__EMPTY": "JAN",
+        "__EMPTY_1": "FEV",
+        "__EMPTY_2": "MAR",
+        "__EMPTY_3": "ABR",
+        "__EMPTY_4": "MAI",
+        "__EMPTY_5": "JUN",
+        "__EMPTY_6": "JUL",
+        "__EMPTY_7": "AGO",
+        "__EMPTY_8": "SET",
+        "__EMPTY_9": "OUT",
+        "__EMPTY_10": "NOV",
+        "__EMPTY_11": "DEZ",
+        "__EMPTY_12": "TOTAL"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita META 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita REAL 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita META 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita REAL 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ATG% Real vs Meta",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Investimento ADS (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ACOS (%)",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ROAS",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "# Pedidos",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Ticket Médio (R$)",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "  AMAZON"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "MÉTRICA",
+        "__EMPTY": "JAN",
+        "__EMPTY_1": "FEV",
+        "__EMPTY_2": "MAR",
+        "__EMPTY_3": "ABR",
+        "__EMPTY_4": "MAI",
+        "__EMPTY_5": "JUN",
+        "__EMPTY_6": "JUL",
+        "__EMPTY_7": "AGO",
+        "__EMPTY_8": "SET",
+        "__EMPTY_9": "OUT",
+        "__EMPTY_10": "NOV",
+        "__EMPTY_11": "DEZ",
+        "__EMPTY_12": "TOTAL"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita META 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita REAL 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita META 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita REAL 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ATG% Real vs Meta",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Investimento ADS (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ACOS (%)",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ROAS",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "# Pedidos",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Ticket Médio (R$)",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "  MAGALU"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "MÉTRICA",
+        "__EMPTY": "JAN",
+        "__EMPTY_1": "FEV",
+        "__EMPTY_2": "MAR",
+        "__EMPTY_3": "ABR",
+        "__EMPTY_4": "MAI",
+        "__EMPTY_5": "JUN",
+        "__EMPTY_6": "JUL",
+        "__EMPTY_7": "AGO",
+        "__EMPTY_8": "SET",
+        "__EMPTY_9": "OUT",
+        "__EMPTY_10": "NOV",
+        "__EMPTY_11": "DEZ",
+        "__EMPTY_12": "TOTAL"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita META 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita REAL 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita META 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita REAL 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ATG% Real vs Meta",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Investimento ADS (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ACOS (%)",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ROAS",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "# Pedidos",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Ticket Médio (R$)",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "  2P / FULL"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "MÉTRICA",
+        "__EMPTY": "JAN",
+        "__EMPTY_1": "FEV",
+        "__EMPTY_2": "MAR",
+        "__EMPTY_3": "ABR",
+        "__EMPTY_4": "MAI",
+        "__EMPTY_5": "JUN",
+        "__EMPTY_6": "JUL",
+        "__EMPTY_7": "AGO",
+        "__EMPTY_8": "SET",
+        "__EMPTY_9": "OUT",
+        "__EMPTY_10": "NOV",
+        "__EMPTY_11": "DEZ",
+        "__EMPTY_12": "TOTAL"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita META 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita REAL 2025 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita META 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Receita REAL 2026 (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ATG% Real vs Meta",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Investimento ADS (R$)",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ACOS (%)",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "ROAS",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "# Pedidos",
+        "__EMPTY_12": 0
+      },
+      {
+        "🛒  PERFORMANCE POR CANAL — DETALHE MENSAL": "Ticket Médio (R$)",
+        "__EMPTY": "-",
+        "__EMPTY_1": "-",
+        "__EMPTY_2": "-",
+        "__EMPTY_3": "-",
+        "__EMPTY_4": "-",
+        "__EMPTY_5": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "-",
+        "__EMPTY_11": "-",
+        "__EMPTY_12": "-"
+      }
+    ],
+    "📆 Q2 DIÁRIO": [
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": "📘 Preencha as colunas azuis diariamente · ACOS · ROAS · Conv% · Acumulado calculados automaticamente"
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": "  ABRIL 2026   —   META MENSAL (R$):",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": "Data",
+        "__EMPTY": "Dia",
+        "__EMPTY_1": "Rec. Paga (R$)",
+        "__EMPTY_2": "Rec. BI (R$)",
+        "__EMPTY_3": "Pedidos",
+        "__EMPTY_4": "Ticket Médio",
+        "__EMPTY_5": "Visitas",
+        "__EMPTY_6": "Conv%",
+        "__EMPTY_7": "Inv. ADS (R$)",
+        "__EMPTY_8": "ACOS",
+        "__EMPTY_9": "ROAS",
+        "__EMPTY_10": "ML Health",
+        "__EMPTY_11": "Notas",
+        "__EMPTY_12": "Acum. Rec."
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46113,
+        "__EMPTY": "Qua",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": 108,
+        "__EMPTY_8": "-",
+        "__EMPTY_9": 0,
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46114,
+        "__EMPTY": "Qui",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46115,
+        "__EMPTY": "Sex",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46116,
+        "__EMPTY": "Sáb",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46117,
+        "__EMPTY": "Dom",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46118,
+        "__EMPTY": "Seg",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46119,
+        "__EMPTY": "Ter",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46120,
+        "__EMPTY": "Qua",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46121,
+        "__EMPTY": "Qui",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46122,
+        "__EMPTY": "Sex",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46123,
+        "__EMPTY": "Sáb",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46124,
+        "__EMPTY": "Dom",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46125,
+        "__EMPTY": "Seg",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46126,
+        "__EMPTY": "Ter",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46127,
+        "__EMPTY": "Qua",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46128,
+        "__EMPTY": "Qui",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46129,
+        "__EMPTY": "Sex",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46130,
+        "__EMPTY": "Sáb",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46131,
+        "__EMPTY": "Dom",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46132,
+        "__EMPTY": "Seg",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46133,
+        "__EMPTY": "Ter",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46134,
+        "__EMPTY": "Qua",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46135,
+        "__EMPTY": "Qui",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46136,
+        "__EMPTY": "Sex",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46137,
+        "__EMPTY": "Sáb",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46138,
+        "__EMPTY": "Dom",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46139,
+        "__EMPTY": "Seg",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46140,
+        "__EMPTY": "Ter",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46141,
+        "__EMPTY": "Qua",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46142,
+        "__EMPTY": "Qui",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": "TOTAL ABRIL 2026",
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_5": 0,
+        "__EMPTY_6": "-",
+        "__EMPTY_7": 108,
+        "__EMPTY_8": "-",
+        "__EMPTY_9": 0,
+        "__EMPTY_10": "ATG% vs Meta:",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": "  MAIO 2026   —   META MENSAL (R$):",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": "Data",
+        "__EMPTY": "Dia",
+        "__EMPTY_1": "Rec. Paga (R$)",
+        "__EMPTY_2": "Rec. BI (R$)",
+        "__EMPTY_3": "Pedidos",
+        "__EMPTY_4": "Ticket Médio",
+        "__EMPTY_5": "Visitas",
+        "__EMPTY_6": "Conv%",
+        "__EMPTY_7": "Inv. ADS (R$)",
+        "__EMPTY_8": "ACOS",
+        "__EMPTY_9": "ROAS",
+        "__EMPTY_10": "ML Health",
+        "__EMPTY_11": "Notas",
+        "__EMPTY_12": "Acum. Rec."
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46143,
+        "__EMPTY": "Sex",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46144,
+        "__EMPTY": "Sáb",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46145,
+        "__EMPTY": "Dom",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46146,
+        "__EMPTY": "Seg",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46147,
+        "__EMPTY": "Ter",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46148,
+        "__EMPTY": "Qua",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46149,
+        "__EMPTY": "Qui",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46150,
+        "__EMPTY": "Sex",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46151,
+        "__EMPTY": "Sáb",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46152,
+        "__EMPTY": "Dom",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46153,
+        "__EMPTY": "Seg",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46154,
+        "__EMPTY": "Ter",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46155,
+        "__EMPTY": "Qua",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46156,
+        "__EMPTY": "Qui",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46157,
+        "__EMPTY": "Sex",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46158,
+        "__EMPTY": "Sáb",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46159,
+        "__EMPTY": "Dom",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46160,
+        "__EMPTY": "Seg",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46161,
+        "__EMPTY": "Ter",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46162,
+        "__EMPTY": "Qua",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46163,
+        "__EMPTY": "Qui",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46164,
+        "__EMPTY": "Sex",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46165,
+        "__EMPTY": "Sáb",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46166,
+        "__EMPTY": "Dom",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46167,
+        "__EMPTY": "Seg",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46168,
+        "__EMPTY": "Ter",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46169,
+        "__EMPTY": "Qua",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46170,
+        "__EMPTY": "Qui",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46171,
+        "__EMPTY": "Sex",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46172,
+        "__EMPTY": "Sáb",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46173,
+        "__EMPTY": "Dom",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": "TOTAL MAIO 2026",
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_5": 0,
+        "__EMPTY_6": "-",
+        "__EMPTY_7": 0,
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "ATG% vs Meta:",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": "  JUNHO 2026   —   META MENSAL (R$):",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": "Data",
+        "__EMPTY": "Dia",
+        "__EMPTY_1": "Rec. Paga (R$)",
+        "__EMPTY_2": "Rec. BI (R$)",
+        "__EMPTY_3": "Pedidos",
+        "__EMPTY_4": "Ticket Médio",
+        "__EMPTY_5": "Visitas",
+        "__EMPTY_6": "Conv%",
+        "__EMPTY_7": "Inv. ADS (R$)",
+        "__EMPTY_8": "ACOS",
+        "__EMPTY_9": "ROAS",
+        "__EMPTY_10": "ML Health",
+        "__EMPTY_11": "Notas",
+        "__EMPTY_12": "Acum. Rec."
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46174,
+        "__EMPTY": "Seg",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46175,
+        "__EMPTY": "Ter",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46176,
+        "__EMPTY": "Qua",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46177,
+        "__EMPTY": "Qui",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46178,
+        "__EMPTY": "Sex",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46179,
+        "__EMPTY": "Sáb",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46180,
+        "__EMPTY": "Dom",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46181,
+        "__EMPTY": "Seg",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46182,
+        "__EMPTY": "Ter",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46183,
+        "__EMPTY": "Qua",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46184,
+        "__EMPTY": "Qui",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46185,
+        "__EMPTY": "Sex",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46186,
+        "__EMPTY": "Sáb",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46187,
+        "__EMPTY": "Dom",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46188,
+        "__EMPTY": "Seg",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46189,
+        "__EMPTY": "Ter",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46190,
+        "__EMPTY": "Qua",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46191,
+        "__EMPTY": "Qui",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46192,
+        "__EMPTY": "Sex",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46193,
+        "__EMPTY": "Sáb",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46194,
+        "__EMPTY": "Dom",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46195,
+        "__EMPTY": "Seg",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46196,
+        "__EMPTY": "Ter",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46197,
+        "__EMPTY": "Qua",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46198,
+        "__EMPTY": "Qui",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46199,
+        "__EMPTY": "Sex",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46200,
+        "__EMPTY": "Sáb",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46201,
+        "__EMPTY": "Dom",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46202,
+        "__EMPTY": "Seg",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": 46203,
+        "__EMPTY": "Ter",
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_12": 0
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": "TOTAL JUNHO 2026",
+        "__EMPTY_1": 0,
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_5": 0,
+        "__EMPTY_6": "-",
+        "__EMPTY_7": 0,
+        "__EMPTY_8": "-",
+        "__EMPTY_9": "-",
+        "__EMPTY_10": "ATG% vs Meta:",
+        "__EMPTY_12": "-"
+      },
+      {
+        "📆  REPORT DIÁRIO Q2 2026 — MARKETPLACE  |  ABR · MAI · JUN": "⭐  TOTAL Q2 (ABR + MAI + JUN)",
+        "__EMPTY_1": 0,
+        "__EMPTY_10": "ATG% Q2:",
+        "__EMPTY_12": "-"
+      }
+    ],
+    "📈 SEMANAL": [
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "📘 Preencha as colunas azuis.  Meta semanal puxada do Anual (÷ 4,3 semanas)  ·  ACOS, ROAS e Conv% automáticos."
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "▶  ANO 2025  —  preencha conforme dados chegam"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Q1 2025 — JAN | FEV | MAR"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Semana",
+        "__EMPTY": "Período",
+        "__EMPTY_1": "Canal Principal",
+        "__EMPTY_2": "Meta Sem. (R$)",
+        "__EMPTY_3": "Real (R$)",
+        "__EMPTY_4": "ATG%",
+        "__EMPTY_5": "Inv. ADS (R$)",
+        "__EMPTY_6": "ACOS",
+        "__EMPTY_7": "ROAS",
+        "__EMPTY_8": "Pedidos",
+        "__EMPTY_9": "Ticket Médio",
+        "__EMPTY_10": "Visitas",
+        "__EMPTY_11": "Conv%"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S01",
+        "__EMPTY": "06/01 – 12/01/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S02",
+        "__EMPTY": "13/01 – 19/01/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S03",
+        "__EMPTY": "20/01 – 26/01/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S04",
+        "__EMPTY": "27/01 – 02/02/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S05",
+        "__EMPTY": "03/02 – 09/02/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S06",
+        "__EMPTY": "10/02 – 16/02/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S07",
+        "__EMPTY": "17/02 – 23/02/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S08",
+        "__EMPTY": "24/02 – 02/03/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S09",
+        "__EMPTY": "03/03 – 09/03/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S10",
+        "__EMPTY": "10/03 – 16/03/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S11",
+        "__EMPTY": "17/03 – 23/03/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S12",
+        "__EMPTY": "24/03 – 30/03/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "TOTAL Q1",
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_5": 0,
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": 0,
+        "__EMPTY_9": "-",
+        "__EMPTY_10": 0,
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Q2 2025 — ABR | MAI | JUN"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Semana",
+        "__EMPTY": "Período",
+        "__EMPTY_1": "Canal Principal",
+        "__EMPTY_2": "Meta Sem. (R$)",
+        "__EMPTY_3": "Real (R$)",
+        "__EMPTY_4": "ATG%",
+        "__EMPTY_5": "Inv. ADS (R$)",
+        "__EMPTY_6": "ACOS",
+        "__EMPTY_7": "ROAS",
+        "__EMPTY_8": "Pedidos",
+        "__EMPTY_9": "Ticket Médio",
+        "__EMPTY_10": "Visitas",
+        "__EMPTY_11": "Conv%"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S14",
+        "__EMPTY": "07/04 – 13/04/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S15",
+        "__EMPTY": "14/04 – 20/04/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S16",
+        "__EMPTY": "21/04 – 27/04/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S17",
+        "__EMPTY": "28/04 – 04/05/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S18",
+        "__EMPTY": "05/05 – 11/05/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S19",
+        "__EMPTY": "12/05 – 18/05/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S20",
+        "__EMPTY": "19/05 – 25/05/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S21",
+        "__EMPTY": "26/05 – 01/06/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S22",
+        "__EMPTY": "02/06 – 08/06/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S23",
+        "__EMPTY": "09/06 – 15/06/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S24",
+        "__EMPTY": "16/06 – 22/06/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S25",
+        "__EMPTY": "23/06 – 29/06/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "TOTAL Q2",
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_5": 0,
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": 0,
+        "__EMPTY_9": "-",
+        "__EMPTY_10": 0,
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Q3 2025 — JUL | AGO | SET"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Semana",
+        "__EMPTY": "Período",
+        "__EMPTY_1": "Canal Principal",
+        "__EMPTY_2": "Meta Sem. (R$)",
+        "__EMPTY_3": "Real (R$)",
+        "__EMPTY_4": "ATG%",
+        "__EMPTY_5": "Inv. ADS (R$)",
+        "__EMPTY_6": "ACOS",
+        "__EMPTY_7": "ROAS",
+        "__EMPTY_8": "Pedidos",
+        "__EMPTY_9": "Ticket Médio",
+        "__EMPTY_10": "Visitas",
+        "__EMPTY_11": "Conv%"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S27",
+        "__EMPTY": "07/07 – 13/07/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S28",
+        "__EMPTY": "14/07 – 20/07/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S29",
+        "__EMPTY": "21/07 – 27/07/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S30",
+        "__EMPTY": "28/07 – 03/08/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S31",
+        "__EMPTY": "04/08 – 10/08/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S32",
+        "__EMPTY": "11/08 – 17/08/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S33",
+        "__EMPTY": "18/08 – 24/08/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S34",
+        "__EMPTY": "25/08 – 31/08/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S35",
+        "__EMPTY": "01/09 – 07/09/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S36",
+        "__EMPTY": "08/09 – 14/09/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S37",
+        "__EMPTY": "15/09 – 21/09/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S38",
+        "__EMPTY": "22/09 – 28/09/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "TOTAL Q3",
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_5": 0,
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": 0,
+        "__EMPTY_9": "-",
+        "__EMPTY_10": 0,
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Q4 2025 — OUT | NOV | DEZ"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Semana",
+        "__EMPTY": "Período",
+        "__EMPTY_1": "Canal Principal",
+        "__EMPTY_2": "Meta Sem. (R$)",
+        "__EMPTY_3": "Real (R$)",
+        "__EMPTY_4": "ATG%",
+        "__EMPTY_5": "Inv. ADS (R$)",
+        "__EMPTY_6": "ACOS",
+        "__EMPTY_7": "ROAS",
+        "__EMPTY_8": "Pedidos",
+        "__EMPTY_9": "Ticket Médio",
+        "__EMPTY_10": "Visitas",
+        "__EMPTY_11": "Conv%"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S40",
+        "__EMPTY": "06/10 – 12/10/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S41",
+        "__EMPTY": "13/10 – 19/10/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S42",
+        "__EMPTY": "20/10 – 26/10/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S43",
+        "__EMPTY": "27/10 – 02/11/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S44",
+        "__EMPTY": "03/11 – 09/11/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S45",
+        "__EMPTY": "10/11 – 16/11/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S46",
+        "__EMPTY": "17/11 – 23/11/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S47",
+        "__EMPTY": "24/11 – 30/11/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S48",
+        "__EMPTY": "01/12 – 07/12/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S49",
+        "__EMPTY": "08/12 – 14/12/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S50",
+        "__EMPTY": "15/12 – 21/12/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S51",
+        "__EMPTY": "22/12 – 28/12/25",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "TOTAL Q4",
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_5": 0,
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": 0,
+        "__EMPTY_9": "-",
+        "__EMPTY_10": 0,
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "▶  ANO 2026  —  meta semanal calculada automaticamente do plano anual"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Q1 2026 — JAN | FEV | MAR"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Semana",
+        "__EMPTY": "Período",
+        "__EMPTY_1": "Canal Principal",
+        "__EMPTY_2": "Meta Sem. (R$)",
+        "__EMPTY_3": "Real (R$)",
+        "__EMPTY_4": "ATG%",
+        "__EMPTY_5": "Inv. ADS (R$)",
+        "__EMPTY_6": "ACOS",
+        "__EMPTY_7": "ROAS",
+        "__EMPTY_8": "Pedidos",
+        "__EMPTY_9": "Ticket Médio",
+        "__EMPTY_10": "Visitas",
+        "__EMPTY_11": "Conv%"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S01",
+        "__EMPTY": "05/01 – 11/01/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S02",
+        "__EMPTY": "12/01 – 18/01/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S03",
+        "__EMPTY": "19/01 – 25/01/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S04",
+        "__EMPTY": "26/01 – 01/02/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S05",
+        "__EMPTY": "02/02 – 08/02/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S06",
+        "__EMPTY": "09/02 – 15/02/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S07",
+        "__EMPTY": "16/02 – 22/02/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S08",
+        "__EMPTY": "23/02 – 01/03/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S09",
+        "__EMPTY": "02/03 – 08/03/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S10",
+        "__EMPTY": "09/03 – 15/03/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S11",
+        "__EMPTY": "16/03 – 22/03/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S12",
+        "__EMPTY": "23/03 – 29/03/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "TOTAL Q1",
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_5": 0,
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": 0,
+        "__EMPTY_9": "-",
+        "__EMPTY_10": 0,
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Q2 2026 — ABR | MAI | JUN"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Semana",
+        "__EMPTY": "Período",
+        "__EMPTY_1": "Canal Principal",
+        "__EMPTY_2": "Meta Sem. (R$)",
+        "__EMPTY_3": "Real (R$)",
+        "__EMPTY_4": "ATG%",
+        "__EMPTY_5": "Inv. ADS (R$)",
+        "__EMPTY_6": "ACOS",
+        "__EMPTY_7": "ROAS",
+        "__EMPTY_8": "Pedidos",
+        "__EMPTY_9": "Ticket Médio",
+        "__EMPTY_10": "Visitas",
+        "__EMPTY_11": "Conv%"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S14",
+        "__EMPTY": "06/04 – 12/04/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S15",
+        "__EMPTY": "13/04 – 19/04/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S16",
+        "__EMPTY": "20/04 – 26/04/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S17",
+        "__EMPTY": "27/04 – 03/05/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S18",
+        "__EMPTY": "04/05 – 10/05/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S19",
+        "__EMPTY": "11/05 – 17/05/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S20",
+        "__EMPTY": "18/05 – 24/05/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S21",
+        "__EMPTY": "25/05 – 31/05/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S22",
+        "__EMPTY": "01/06 – 07/06/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S23",
+        "__EMPTY": "08/06 – 14/06/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S24",
+        "__EMPTY": "15/06 – 21/06/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S25",
+        "__EMPTY": "22/06 – 28/06/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "TOTAL Q2",
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_5": 0,
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": 0,
+        "__EMPTY_9": "-",
+        "__EMPTY_10": 0,
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Q3 2026 — JUL | AGO | SET"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Semana",
+        "__EMPTY": "Período",
+        "__EMPTY_1": "Canal Principal",
+        "__EMPTY_2": "Meta Sem. (R$)",
+        "__EMPTY_3": "Real (R$)",
+        "__EMPTY_4": "ATG%",
+        "__EMPTY_5": "Inv. ADS (R$)",
+        "__EMPTY_6": "ACOS",
+        "__EMPTY_7": "ROAS",
+        "__EMPTY_8": "Pedidos",
+        "__EMPTY_9": "Ticket Médio",
+        "__EMPTY_10": "Visitas",
+        "__EMPTY_11": "Conv%"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S27",
+        "__EMPTY": "06/07 – 12/07/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S28",
+        "__EMPTY": "13/07 – 19/07/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S29",
+        "__EMPTY": "20/07 – 26/07/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S30",
+        "__EMPTY": "27/07 – 02/08/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S31",
+        "__EMPTY": "03/08 – 09/08/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S32",
+        "__EMPTY": "10/08 – 16/08/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S33",
+        "__EMPTY": "17/08 – 23/08/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S34",
+        "__EMPTY": "24/08 – 30/08/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S35",
+        "__EMPTY": "31/08 – 06/09/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S36",
+        "__EMPTY": "07/09 – 13/09/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S37",
+        "__EMPTY": "14/09 – 20/09/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S38",
+        "__EMPTY": "21/09 – 27/09/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "TOTAL Q3",
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_5": 0,
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": 0,
+        "__EMPTY_9": "-",
+        "__EMPTY_10": 0,
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Q4 2026 — OUT | NOV | DEZ"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "Semana",
+        "__EMPTY": "Período",
+        "__EMPTY_1": "Canal Principal",
+        "__EMPTY_2": "Meta Sem. (R$)",
+        "__EMPTY_3": "Real (R$)",
+        "__EMPTY_4": "ATG%",
+        "__EMPTY_5": "Inv. ADS (R$)",
+        "__EMPTY_6": "ACOS",
+        "__EMPTY_7": "ROAS",
+        "__EMPTY_8": "Pedidos",
+        "__EMPTY_9": "Ticket Médio",
+        "__EMPTY_10": "Visitas",
+        "__EMPTY_11": "Conv%"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S40",
+        "__EMPTY": "05/10 – 11/10/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S41",
+        "__EMPTY": "12/10 – 18/10/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S42",
+        "__EMPTY": "19/10 – 25/10/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S43",
+        "__EMPTY": "26/10 – 01/11/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S44",
+        "__EMPTY": "02/11 – 08/11/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S45",
+        "__EMPTY": "09/11 – 15/11/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S46",
+        "__EMPTY": "16/11 – 22/11/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S47",
+        "__EMPTY": "23/11 – 29/11/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S48",
+        "__EMPTY": "30/11 – 06/12/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S49",
+        "__EMPTY": "07/12 – 13/12/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S50",
+        "__EMPTY": "14/12 – 20/12/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S51",
+        "__EMPTY": "21/12 – 27/12/26",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "S52",
+        "__EMPTY": "28/12 – 03/01/27",
+        "__EMPTY_2": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_11": "-"
+      },
+      {
+        "📈  ACOMPANHAMENTO SEMANAL — MARKETPLACE 2025 & 2026": "TOTAL Q4",
+        "__EMPTY_2": 0,
+        "__EMPTY_3": 0,
+        "__EMPTY_4": "-",
+        "__EMPTY_5": 0,
+        "__EMPTY_6": "-",
+        "__EMPTY_7": "-",
+        "__EMPTY_8": 0,
+        "__EMPTY_9": "-",
+        "__EMPTY_10": 0,
+        "__EMPTY_11": "-"
+      }
+    ]
+  },
+  "pdfs": {}
+}
