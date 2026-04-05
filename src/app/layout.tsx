@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ecossistema Studio | Engenharia & Gestão",
-  description: "Transformamos o caos operacional em um ecossistema digital lucrativo.",
+  title: "Portfólio - Eduardo Lourenço",
+  description: "Especialista em Engenharia de Operações, E-commerce de alta performance e Arquitetura de Sistemas.",
 };
 
 export default function RootLayout({
