@@ -7,14 +7,23 @@ import { SalesFunnel } from '@/components/interactive/SalesFunnel'
 import { MarginSimulator } from '@/components/interactive/MarginSimulator'
 import { SpotlightCard } from '@/components/ui/SpotlightCard'
 import { Accordion } from '@/components/ui/Accordion'
-
 import { GrowthDashboard } from '@/components/interactive/GrowthDashboard'
 import { MarketplaceGrid } from '@/components/interactive/MarketplaceGrid'
 import { EcomFlowchart } from '@/components/interactive/EcomFlowchart'
+import { SidebarNav } from '@/components/layout/SidebarNav'
+
+const ECOMMERCE_SECTIONS = [
+  { id: 'crescimento',  label: 'Dashboard',    sublabel: 'Crescimento' },
+  { id: 'estrategia',   label: 'Canais',       sublabel: 'Ecossistema Omni' },
+  { id: 'logistica',    label: 'Logística',    sublabel: 'Cargas +40kg' },
+  { id: 'margens',      label: 'Margens',      sublabel: 'Engenharia de Lucro' },
+  { id: 'funil',        label: 'Funil',        sublabel: 'Aquisição Full-Funnel' },
+]
 
 export default function EcommercePage() {
   return (
-    <div className="flex flex-col gap-16 md:gap-24 pb-32">
+    <div className="flex flex-col gap-16 md:gap-24">
+      <SidebarNav sections={ECOMMERCE_SECTIONS} title="E-commerce" />
 
       {/* ── BACKGROUND: EXECUTIVE OLED DARK MODE ── */}
       <div className="fixed inset-0 -z-50 pointer-events-none bg-[#050505]" />

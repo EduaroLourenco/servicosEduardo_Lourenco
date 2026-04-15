@@ -32,7 +32,7 @@ export default function RootLayout({
     >
       <body className="min-h-screen flex flex-col bg-background text-foreground font-sans selection:bg-brand-primary selection:text-black">
         <Navigation />
-        <main className="flex-1 pb-32 lg:pb-0">
+        <main className="flex-1">
           {children}
         </main>
         <Footer />

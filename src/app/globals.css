@@ -109,12 +109,38 @@ body {
   scrollbar-width: none;
 }
 
-/* Anchor offset for fixed header */
+/* ── ANCHOR OFFSETS ──
+   Desktop: pill nav ~60px + gap ~24px = ~84px → 6rem
+   Mobile: bottom nav não interfere no topo, mas mantemos 1.5rem p/ margem visual
+*/
 html {
-  scroll-padding-top: 5rem;
+  scroll-padding-top: 6rem;
 }
-@media (max-width: 768px) {
+@media (max-width: 1023px) {
   html {
-    scroll-padding-top: 2rem;
+    scroll-padding-top: 1.5rem;
+  }
+}
+
+/* ── SAFE AREA HELPERS ── */
+/* Padding bottom que respeita a bottom nav + safe area do iOS */
+.pb-nav-safe {
+  padding-bottom: calc(5.5rem + env(safe-area-inset-bottom, 0px));
+}
+
+@media (min-width: 1024px) {
+  .pb-nav-safe {
+    padding-bottom: 0;
+  }
+}
+
+/* Garante que o conteúdo principal nunca fique atrás da bottom nav */
+main {
+  /* Mobile: reserva espaço para a bottom nav */
+  padding-bottom: calc(5.5rem + env(safe-area-inset-bottom, 0px));
+}
+@media (min-width: 1024px) {
+  main {
+    padding-bottom: 0;
   }
 }

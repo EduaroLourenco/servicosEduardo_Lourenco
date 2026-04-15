@@ -13,10 +13,17 @@ import { KanbanSimulator } from '@/components/interactive/KanbanSimulator'
 import { MarketplaceDataGrid } from '@/components/interactive/MarketplaceDataGrid'
 import { SaaSFlowSimulator } from '@/components/interactive/SaaSFlowSimulator'
 import { Accordion } from '@/components/ui/Accordion'
+import { SidebarNav } from '@/components/layout/SidebarNav'
+
+const INTERFACES_SECTIONS = [
+  { id: 'mini-apps',     label: 'Mini-Apps',      sublabel: 'Interaction Design' },
+  { id: 'design-system', label: 'Design System',  sublabel: 'Tokens & Biblioteca' },
+]
 
 export default function InterfacesPage() {
   return (
-    <div className="flex flex-col gap-24 pb-32">
+    <div className="flex flex-col gap-24">
+      <SidebarNav sections={INTERFACES_SECTIONS} title="Interfaces" />
 
       {/* ── BACKGROUND: EXECUTIVE OLED DARK MODE ── */}
       <div className="fixed inset-0 -z-50 pointer-events-none bg-[#050505]" />

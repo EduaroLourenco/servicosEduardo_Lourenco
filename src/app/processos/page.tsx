@@ -13,10 +13,17 @@ import { Accordion } from '@/components/ui/Accordion'
 import { ProcessDashboard } from '@/components/interactive/ProcessDashboard'
 import { LeadFlowSimulator } from '@/components/interactive/LeadFlowSimulator'
 import { ComplexSacFlow } from '@/components/interactive/ComplexSacFlow'
+import { SidebarNav } from '@/components/layout/SidebarNav'
+
+const PROCESSOS_SECTIONS = [
+  { id: 'hub-automacao', label: 'Hub Automação', sublabel: 'Vendas com IA' },
+  { id: 'pop-explorer', label: 'Explorador POP', sublabel: 'Vigilância & Docs' },
+]
 
 export default function ProcessosPage() {
   return (
-    <div className="flex flex-col gap-16 md:gap-24 pb-32">
+    <div className="flex flex-col gap-16 md:gap-24">
+      <SidebarNav sections={PROCESSOS_SECTIONS} title="Processos" />
 
       {/* ── BACKGROUND: EXECUTIVE OLED DARK MODE ── */}
       <div className="fixed inset-0 -z-50 pointer-events-none bg-[#050505]" />
