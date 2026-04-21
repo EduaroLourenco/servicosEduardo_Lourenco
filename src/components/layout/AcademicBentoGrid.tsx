@@ -47,7 +47,7 @@ export function AcademicBentoGrid() {
            <div>
               <h3 className="text-xl font-black text-white uppercase italic tracking-tighter mb-4">Comercial & Marketing</h3>
               <ul className="space-y-2">
-                 {['Consultor ML Platinum', 'Curso E-commerce (IFRS)', 'SEO (Conversion)', 'Mkt Digital (Google)', 'Vendas (CPS)'].map(item => (
+                 {['Consultor ML Platinum', 'Curso E-commerce (IFRS)', 'SEO (Conversion)', 'Mkt Digital (Google)', 'Vendas (CPS)', 'Google Analytics 4'].map(item => (
                    <li key={item} className="text-[10px] text-white/50 flex items-center gap-2 font-mono uppercase tracking-widest">
                       <span className="w-1 h-1 bg-brand-primary rounded-full shrink-0" />
                       {item}

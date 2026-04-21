@@ -1,7 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { GraduationCap, Award, Code2, LineChart, Briefcase, CheckCircle2 } from 'lucide-react'
+import { GraduationCap, Award, Code2, LineChart, Briefcase, CheckCircle2, ExternalLink } from 'lucide-react'
 import { SpotlightCard } from '@/components/ui/SpotlightCard'
 
 const credentials = [
@@ -18,6 +18,8 @@ const credentials = [
      category: "Tecnologia & Dados",
      icon: Code2,
      items: [
+       { name: "Google Analytics 4 (GA4)", entity: "Google Skillshop", period: "Abr 2026", detail: "Certificado oficial. Análise de comportamento do usuário, funis de conversão e eventos personalizados para otimização de performance digital." },
+       { name: "Data Analytics & Comportamento", entity: "Análise de Dados", period: "Expert", detail: "Tomada de decisão orientada a dados (data-driven) com GA4 para otimizar performance de vendas em marketplaces." },
        { name: "Integrações via APIs & Webhooks", entity: "Arquitetura de Sistemas", period: "Especialista", detail: "Conexão entre plataformas via APIs REST e automações por webhook para sincronização em tempo real." },
        { name: "Bancos de Dados (MongoDB)", entity: "NoSQL", period: "Avançado", detail: "Modelagem e consulta de dados em ambientes NoSQL com foco em alta flexibilidade estrutural." },
        { name: "Excel Avançado & Dashboards", entity: "BI Executivo", period: "Expert", detail: "Planilhas complexas e dashboards de performance para tomada de decisão gerencial." },
@@ -120,6 +122,60 @@ export default function FormacaoPage() {
               </div>
             </SpotlightCard>
           ))}
+        </div>
+      </section>
+
+      {/* CERTIFICAÇÕES OFICIAIS */}
+      <section className="container mx-auto px-6">
+        <div className="max-w-6xl mx-auto">
+          <div className="flex items-center gap-4 mb-10">
+            <div className="p-3 rounded-2xl bg-white/5">
+              <Award className="w-6 h-6 text-brand-primary" />
+            </div>
+            <h3 className="text-xl font-semibold text-white/90 tracking-tight">Certificações Oficiais</h3>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {/* GA4 Certification Card */}
+            <SpotlightCard
+              className="p-8 border-[rgba(234,67,53,0.2)] bg-white/[0.01] backdrop-blur-xl rounded-3xl"
+              spotlightColor="rgba(66,133,244,0.12)"
+            >
+              <div className="flex items-start gap-5">
+                {/* Google Analytics Logo Badge */}
+                <div className="shrink-0 w-14 h-14 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center overflow-hidden">
+                  <svg viewBox="0 0 24 24" className="w-8 h-8" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect x="3" y="12" width="4" height="9" rx="1" fill="#F9AB00"/>
+                    <rect x="10" y="6" width="4" height="15" rx="1" fill="#E37400"/>
+                    <rect x="17" y="1" width="4" height="20" rx="1" fill="#1A73E8"/>
+                  </svg>
+                </div>
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-start justify-between gap-2 mb-1">
+                    <h4 className="text-sm font-semibold text-white/90">Certificação Google Analytics (GA4)</h4>
+                    <span className="text-[10px] font-mono text-brand-primary/70 whitespace-nowrap">Abr 2026</span>
+                  </div>
+                  <p className="text-[11px] text-brand-primary/70 font-semibold mb-2">Google Skillshop</p>
+                  <p className="text-[11px] text-white/30 font-light italic mb-4">
+                    Certificação oficial em Google Analytics 4. Domínio em análise de comportamento do usuário, funis de conversão e decisões data-driven para otimização de vendas em marketplaces e aplicações web.
+                  </p>
+                  <div className="flex flex-wrap gap-2 mb-4">
+                    {['GA4', 'Data Analytics', 'Comportamento do Usuário', 'Conversão'].map(tag => (
+                      <span key={tag} className="text-[8px] font-mono uppercase tracking-widest text-white/30 border border-white/10 bg-white/5 px-2 py-1 rounded">{tag}</span>
+                    ))}
+                  </div>
+                  <a
+                    href="https://skillshop.credential.net/678f45ba-29da-42c5-b2f2-79981c1c4184"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-2 text-[10px] font-bold text-brand-primary/80 hover:text-brand-primary transition-colors uppercase tracking-widest"
+                  >
+                    Ver Credencial <ExternalLink className="w-3 h-3" />
+                  </a>
+                </div>
+              </div>
+            </SpotlightCard>
+          </div>
         </div>
       </section>
 

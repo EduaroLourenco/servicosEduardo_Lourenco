@@ -55,10 +55,12 @@ export function ExecutiveBento() {
         <h3 className="text-xl font-bold text-white mb-6 uppercase italic tracking-tight">Tecnologia & Dados</h3>
         <div className="space-y-4">
           {[
+            { t: 'Google Analytics 4', d: 'Análise de comportamento do usuário, funis de conversão e decisões data-driven para otimizar vendas em marketplaces.' },
+            { t: 'Data Analytics', d: 'Tomada de decisão orientada a dados para otimização de performance de vendas e experiência do usuário em apps web.' },
+            { t: 'Análise de Comportamento', d: 'Mapeamento da jornada do usuário com GA4 para identificar gargalos de conversão e oportunidades de crescimento.' },
             { t: 'Integrações APIs', d: 'Conexão entre sistemas via REST e Webhooks para sincronização em tempo real.' },
             { t: 'MongoDB (NoSQL)', d: 'Modelagem orientada a documentos para alta flexibilidade estrutural.' },
             { t: 'BI & Excel', d: 'Dashboards complexos de receita e margem para decisão gerencial.' },
-            { t: 'UX/UI Design', d: 'Prototipação centrada no usuário com foco em conversão e usabilidade.' },
             { t: 'Full-Stack', d: 'Desenvolvimento web completo com Next.js e back-end em Python.' }
           ].map(item => (
             <div key={item.t} className="group/item">

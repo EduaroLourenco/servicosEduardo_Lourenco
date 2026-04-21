@@ -54,6 +54,26 @@ export default function EcommercePage() {
                 <p className="text-base md:text-lg text-foreground/50 leading-relaxed font-light">
                    Gestão estratégica para e-commerce de escala industrial. Substituímos o &quot;hype&quot; de marketing por precisão de dados, focando em ROAS, margens de lucro e logística de alta complexidade.
                 </p>
+
+                {/* GA4 DATA-DRIVEN BADGE */}
+                <a
+                  href="https://skillshop.credential.net/678f45ba-29da-42c5-b2f2-79981c1c4184"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-3 px-4 py-3 rounded-2xl border border-[rgba(26,115,232,0.3)] bg-[rgba(26,115,232,0.05)] hover:bg-[rgba(26,115,232,0.1)] transition-all group/badge"
+                >
+                  <div className="shrink-0 w-8 h-8 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center">
+                    <svg viewBox="0 0 24 24" className="w-5 h-5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <rect x="3" y="12" width="4" height="9" rx="1" fill="#F9AB00"/>
+                      <rect x="10" y="6" width="4" height="15" rx="1" fill="#E37400"/>
+                      <rect x="17" y="1" width="4" height="20" rx="1" fill="#1A73E8"/>
+                    </svg>
+                  </div>
+                  <div>
+                    <p className="text-[9px] font-mono text-white/30 uppercase tracking-widest">Certificado · Google Skillshop</p>
+                    <p className="text-[11px] font-bold text-white/70 group-hover/badge:text-white transition-colors">Data-Driven · GA4 Certified</p>
+                  </div>
+                </a>
                 
                 {/* SUMÁRIO INTERATIVO */}
                 <div className="flex flex-wrap gap-2 md:gap-4">

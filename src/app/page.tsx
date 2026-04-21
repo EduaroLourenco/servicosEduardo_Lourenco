@@ -47,7 +47,7 @@ export default function HomePage() {
           </h2>
           
           <p className="text-sm md:text-md text-foreground/60 leading-relaxed font-light max-w-3xl mb-8 md:mb-12 italic">
-             Estrategista Digital with formação em <strong className="text-white">Administração</strong> e <strong className="text-white">Engenharia de Software</strong>. Atuação direta na definição de posicionamento de marca, gestão de canais em escala e liderança de integrações sistêmicas complexas entre ERPs Industriais e Hubs de E-commerce e logística industrial (TMS).
+             Estrategista Digital com formação em <strong className="text-white">Administração</strong> e <strong className="text-white">Engenharia de Software</strong>. Atuação direta na definição de posicionamento de marca, gestão de canais em escala e liderança de integrações sistêmicas complexas entre ERPs Industriais e Hubs de E-commerce. Utilizo dados do <strong className="text-brand-primary">Google Analytics 4 (GA4)</strong> para otimizar a performance de vendas em marketplaces e melhorar a experiência do usuário em aplicações web, tomando decisões fundamentadas em dados (data-driven).
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4">
