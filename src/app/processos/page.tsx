@@ -25,8 +25,8 @@ export default function ProcessosPage() {
     <div className="flex flex-col gap-16 md:gap-24">
       <SidebarNav sections={PROCESSOS_SECTIONS} title="Processos" />
 
-      {/* ── BACKGROUND: EXECUTIVE OLED DARK MODE ── */}
-      <div className="fixed inset-0 -z-50 pointer-events-none bg-[#050505]" />
+      {/* ── BACKGROUND: EXECUTIVE GRAPHITE ── */}
+      <div className="fixed inset-0 -z-50 pointer-events-none bg-slate-900" />
       <div className="fixed inset-0 -z-40 pointer-events-none overflow-hidden opacity-10">
         <div className="absolute w-[800px] h-[800px] bg-brand-blue/5 blur-[160px] rounded-full -top-1/4 -right-1/4" />
       </div>
@@ -50,8 +50,8 @@ export default function ProcessosPage() {
           </h1>
 
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-start mt-8 md:mt-12">
-             <div className="lg:col-span-5 space-y-8 md:space-y-12">
-                <p className="text-base md:text-lg text-foreground/50 leading-relaxed font-light">
+             <div className="lg:col-span-5 space-y-8 md:space-y-12 text-container">
+                <p className="text-base md:text-lg text-slate-200 leading-relaxed font-light">
                    Engenharia de workflows que eliminam gargalos manuais. Construímos processos autônomos onde agentes de IA lidam com a lógica repetitiva, permitindo que a camada executiva foque em decisões estratégicas.
                 </p>
                 
@@ -85,13 +85,13 @@ export default function ProcessosPage() {
       </section>
 
       {/* ── SEÇÃO 01: OPERAÇÕES DE VENDAS COM AGENTES ── */}
-      <section id="hub-automacao" className="container mx-auto px-6 pt-16 md:pt-24 border-t border-white/5">
+      <section id="hub-automacao" className="container mx-auto px-6 pt-16 md:pt-24 border-t border-slate-800">
         <div className="flex flex-col gap-10 md:gap-12 mb-16 md:mb-24">
            <div className="space-y-6 md:space-y-8 max-w-4xl">
-              <div>
+              <div className="text-container">
                 <span className="text-[9px] md:text-[10px] font-mono text-brand-primary mb-3 md:mb-4 block uppercase tracking-widest">Protocolo: FUNIL_COGNITIVO</span>
                 <h2 className="text-2xl md:text-3xl font-bold mb-4 md:mb-6 text-white tracking-tight">Operações de Vendas com IA</h2>
-                <p className="text-sm md:text-lg text-foreground/50 leading-relaxed font-light">
+                <p className="text-sm md:text-lg text-slate-200 leading-relaxed font-light">
                    Saindo de planilhas manuais para qualificação orientada por agentes. Cada lead é analisado por um LLM segundos após a captura.
                 </p>
               </div>
@@ -113,12 +113,12 @@ export default function ProcessosPage() {
       </section>
 
       {/* ── SEÇÃO 02: FRAMEWORK DE POPs ── */}
-      <section id="pop-explorer" className="container mx-auto px-6 pt-16 md:pt-24 border-t border-white/5">
+      <section id="pop-explorer" className="container mx-auto px-6 pt-16 md:pt-24 border-t border-slate-800">
         <div className="flex flex-col gap-10 md:gap-12">
-           <div className="max-w-3xl">
+           <div className="max-w-3xl text-container">
               <span className="text-[9px] md:text-[10px] font-mono text-brand-indigo mb-3 md:mb-4 block uppercase tracking-widest">Framework: ENGENHARIA_DE_POPs</span>
               <h2 className="text-2xl md:text-3xl font-bold mb-4 md:mb-6 text-white tracking-tight">Vigilância & Documentação Estruturada</h2>
-              <p className="text-sm md:text-base text-foreground/50 leading-relaxed font-light">
+              <p className="text-sm md:text-base text-slate-200 leading-relaxed font-light">
                  Processos só são escaláveis se forem documentados. Mapeamos cada ponto de contato crítico (do SAC ao Fulfillment) em procedimentos visuais e auditáveis.
               </p>
            </div>

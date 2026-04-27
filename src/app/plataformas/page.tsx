@@ -47,8 +47,8 @@ export default function PlataformasPage() {
   return (
     <div className="flex flex-col gap-24 pb-32">
       
-      {/* ── BACKGROUND: EXECUTIVE OLED DARK MODE ── */}
-      <div className="fixed inset-0 -z-50 pointer-events-none bg-[#050505]" />
+      {/* ── BACKGROUND: EXECUTIVE GRAPHITE ── */}
+      <div className="fixed inset-0 -z-50 pointer-events-none bg-slate-900" />
       <div className="fixed inset-0 -z-40 pointer-events-none overflow-hidden opacity-10">
         <div className="absolute w-[800px] h-[800px] bg-brand-blue/5 blur-[160px] rounded-full -top-1/4 -right-1/4" />
       </div>
@@ -66,9 +66,9 @@ export default function PlataformasPage() {
           </span>
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-8 text-white leading-tight">
             Stack Técnica &<br />
-            <span className="text-foreground/40">Infraestrutura de Ecossistema.</span>
+            <span className="text-slate-400">Infraestrutura de Ecossistema.</span>
           </h1>
-          <p className="text-lg text-foreground/50 max-w-2xl mx-auto font-light leading-relaxed">
+          <p className="text-lg text-slate-300 max-w-2xl mx-auto font-light leading-relaxed text-container">
             Uma arquitetura combinada de ERPs industriais, motores de checkout de alta conversão e frameworks modernos de engenharia de software.
           </p>
         </motion.div>

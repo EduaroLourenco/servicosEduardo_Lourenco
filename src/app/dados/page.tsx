@@ -9,8 +9,8 @@ export default function DadosPage() {
   return (
     <div className="flex flex-col gap-24 pb-32">
       
-      {/* ── BACKGROUND: EXECUTIVE OLED DARK MODE ── */}
-      <div className="fixed inset-0 -z-30 pointer-events-none bg-[#050505]" />
+      {/* ── BACKGROUND: EXECUTIVE GRAPHITE ── */}
+      <div className="fixed inset-0 -z-30 pointer-events-none bg-slate-900" />
       <div className="fixed inset-0 -z-20 pointer-events-none overflow-hidden opacity-10">
         <div className="absolute w-[800px] h-[800px] bg-brand-primary/5 blur-[160px] rounded-full -top-1/4 -right-1/4" />
       </div>
@@ -32,11 +32,11 @@ export default function DadosPage() {
 
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-8 text-white leading-tight">
             Dados Estratégicos &<br />
-            <span className="text-foreground/40">Inteligência Operacional.</span>
+            <span className="text-slate-400">Inteligência Operacional.</span>
           </h1>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-start mt-12">
-             <p className="text-lg text-foreground/50 leading-relaxed font-light max-w-xl">
+             <p className="text-lg text-slate-200 leading-relaxed font-light max-w-xl text-container">
                 Operações de alta performance exigem controle de margem em tempo real. Construímos a ponte de dados que conecta APIs de marketplaces a dashboards executivos, garantindo que cada decisão seja baseada em números sólidos.
              </p>
              
@@ -45,7 +45,7 @@ export default function DadosPage() {
                   { label: 'Sincronização', value: 'Live', icon: TrendingUp },
                   { label: 'Integridade', value: '100%', icon: Target },
                 ].map((kpi) => (
-                  <div key={kpi.label} className="p-6 rounded-2xl border border-white/5 bg-white/[0.01]">
+                  <div key={kpi.label} className="p-6 rounded-2xl border border-slate-700 bg-slate-800/50">
                      <p className="text-[9px] uppercase font-mono text-white/20 mb-2">{kpi.label}</p>
                      <p className="text-3xl font-bold tracking-tighter text-white">{kpi.value}</p>
                   </div>
@@ -56,22 +56,22 @@ export default function DadosPage() {
       </section>
 
       {/* DASHBOARD SECTION */}
-      <section className="container mx-auto px-6 pt-24 border-t border-white/5">
-        <div className="mb-16 max-w-3xl">
+      <section className="container mx-auto px-6 pt-24 border-t border-slate-800">
+        <div className="mb-16 max-w-3xl text-container">
           <span className="text-[10px] font-mono text-brand-primary mb-4 block uppercase tracking-widest">Ambiente: BI_EXECUTIVE_DASHBOARD</span>
           <h2 className="text-3xl font-bold mb-6 text-white tracking-tight">Governança & Performance</h2>
-          <p className="text-foreground/50 leading-relaxed font-light text-base">
+          <p className="text-slate-200 leading-relaxed font-light text-base">
             Visualize o impacto de ajustes sazonais e estratégias comerciais em múltiplos canais. Nossa infraestrutura processa milhares de eventos para entregar uma única fonte da verdade.
           </p>
         </div>
         
-        <div className="bg-white/[0.01] border border-white/5 rounded-[3rem] p-4 md:p-12 backdrop-blur-3xl">
+        <div className="bg-slate-800/50 border border-slate-700 rounded-[3rem] p-4 md:p-12 backdrop-blur-3xl">
           <ExecutiveDashboard />
         </div>
       </section>
 
       {/* ADDITIONAL METRICS GRID */}
-      <section className="container mx-auto px-6 pt-24 border-t border-white/5">
+      <section className="container mx-auto px-6 pt-24 border-t border-slate-800">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
            {[
              { title: 'Picos Sazonais', desc: 'Modelagem preditiva para janelas de alta demanda (Black Friday / Feriados).', icon: BarChart3 },

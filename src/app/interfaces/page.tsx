@@ -25,8 +25,8 @@ export default function InterfacesPage() {
     <div className="flex flex-col gap-24">
       <SidebarNav sections={INTERFACES_SECTIONS} title="Interfaces" />
 
-      {/* ── BACKGROUND: EXECUTIVE OLED DARK MODE ── */}
-      <div className="fixed inset-0 -z-50 pointer-events-none bg-[#050505]" />
+      {/* ── BACKGROUND: EXECUTIVE GRAPHITE ── */}
+      <div className="fixed inset-0 -z-50 pointer-events-none bg-slate-900" />
       <div className="fixed inset-0 -z-40 pointer-events-none overflow-hidden opacity-10">
         <div className="absolute w-[800px] h-[800px] bg-brand-indigo/5 blur-[160px] rounded-full -top-1/4 -right-1/4" />
       </div>
@@ -50,8 +50,8 @@ export default function InterfacesPage() {
           </h1>
 
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-16 items-start mt-12">
-             <div className="lg:col-span-5 space-y-12">
-                <p className="text-lg text-foreground/50 leading-relaxed font-light">
+             <div className="lg:col-span-5 space-y-12 text-container">
+                <p className="text-lg text-slate-200 leading-relaxed font-light">
                    Interfaces projetadas para ambientes de alta criticidade. Desenvolvemos produtos digitais que traduzem lógica de negócios complexa em experiências intuitivas e sem fricção para SaaS e softwares industriais.
                 </p>
                 
@@ -78,7 +78,7 @@ export default function InterfacesPage() {
                   { label: 'LCP_Frontend', value: '<0.8s', color: 'text-brand-indigo' },
                   { label: 'Acessibilidade', value: 'WCAG', color: 'text-brand-success' },
                 ].map((kpi) => (
-                  <div key={kpi.label} className="p-8 rounded-3xl border border-white/5 bg-white/[0.01]">
+                  <div key={kpi.label} className="p-8 rounded-3xl border border-slate-700 bg-slate-800/50">
                      <p className="text-[9px] uppercase font-mono text-white/20 mb-2">{kpi.label}</p>
                      <p className={`text-4xl font-bold tracking-tighter ${kpi.color}`}>{kpi.value}</p>
                   </div>
@@ -89,11 +89,11 @@ export default function InterfacesPage() {
       </section>
 
       {/* ── PROJETOS: MINI-APPS INTERATIVOS ── */}
-      <section id="mini-apps" className="container mx-auto px-6 pt-24 border-t border-white/5">
-        <div className="mb-20 max-w-3xl">
+      <section id="mini-apps" className="container mx-auto px-6 pt-24 border-t border-slate-800">
+        <div className="mb-20 max-w-3xl text-container">
            <span className="text-[10px] font-mono text-brand-indigo mb-4 block uppercase tracking-widest">Caso_03: INTERACTION_DESIGN</span>
            <h2 className="text-3xl font-bold mb-6 text-white tracking-tight">Componentes de Alta Interatividade</h2>
-           <p className="text-foreground/50 leading-relaxed font-light text-base mb-8">
+           <p className="text-slate-200 leading-relaxed font-light text-base mb-8">
               Para softwares complexos, a interface deve ser mais que visual: deve ser funcional. Abaixo, exemplos de ferramentas interativas construídas para otimizar a tomada de decisão.
            </p>
            
@@ -106,7 +106,7 @@ export default function InterfacesPage() {
         <div className="flex flex-col gap-24 text-left">
            <div className="space-y-6">
               <h3 className="text-white font-bold text-xl italic tracking-tight">Simulador de Kanban Automatizado</h3>
-              <p className="text-white/40 text-base leading-relaxed mb-8 font-light max-w-2xl">
+              <p className="text-slate-300 text-base leading-relaxed mb-8 font-light max-w-2xl">
                  Visualização de fluxo de trabalho industrial com lógica de arrastar e soltar (drag-drop) e atualização de status em tempo real.
               </p>
               <div className="bg-white/[0.01] border border-white/5 rounded-[2rem] p-4 md:p-8">
@@ -137,13 +137,13 @@ export default function InterfacesPage() {
       </section>
 
       {/* ── DESIGN SYSTEM ── */}
-      <section id="design-system" className="container mx-auto px-6 pt-32 border-t border-white/5">
+      <section id="design-system" className="container mx-auto px-6 pt-32 border-t border-slate-800">
         <div className="flex flex-col lg:flex-row gap-20 items-center">
            <div className="flex-1 space-y-8">
-              <div>
+              <div className="text-container">
                 <span className="text-[10px] font-mono text-white/30 mb-4 block uppercase tracking-widest">Caso_04: DESIGN_SYSTEM</span>
                 <h2 className="text-3xl font-bold mb-6 text-white tracking-tight">Ecossistema de Tokens</h2>
-                <p className="text-foreground/50 leading-relaxed font-light text-base">
+                <p className="text-slate-200 leading-relaxed font-light text-base">
                   Construção de uma biblioteca de componentes escalável que garante consistência visual e velocidade de desenvolvimento em múltiplos produtos.
                 </p>
               </div>

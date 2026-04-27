@@ -24,7 +24,7 @@ export default function ContatoPage() {
     <div className="min-h-screen flex flex-col">
 
       {/* Background */}
-      <div className="fixed inset-0 -z-50 bg-[#050505]" />
+      <div className="fixed inset-0 -z-50 bg-slate-900" />
       <div className="fixed inset-0 -z-40 overflow-hidden opacity-15 pointer-events-none">
         <div className="absolute w-[600px] h-[600px] bg-brand-primary/8 blur-[140px] rounded-full top-1/4 left-1/2 -translate-x-1/2" />
       </div>
@@ -48,7 +48,7 @@ export default function ContatoPage() {
           </div>
 
           {/* Card — Contatos diretos */}
-          <div className="rounded-2xl border border-white/8 bg-white/[0.02] p-6 flex flex-col sm:flex-row gap-4">
+          <div className="rounded-2xl border border-slate-700 bg-slate-800 p-6 flex flex-col sm:flex-row gap-4">
             {/* Telefone */}
             <a
               href={`tel:+55${PHONE}`}
@@ -83,7 +83,7 @@ export default function ContatoPage() {
           </div>
 
           {/* Card — Enviar mensagem no WhatsApp */}
-          <div className="rounded-2xl border border-white/8 bg-white/[0.02] p-6 flex flex-col gap-4">
+          <div className="rounded-2xl border border-slate-700 bg-slate-800 p-6 flex flex-col gap-4">
             <div className="flex items-center gap-3">
               <div className="w-9 h-9 rounded-xl bg-brand-success/10 border border-brand-success/20 flex items-center justify-center">
                 <MessageCircle className="w-4 h-4 text-brand-success" />
@@ -109,7 +109,7 @@ export default function ContatoPage() {
                 sent
                   ? 'bg-brand-success/20 border border-brand-success/30 text-brand-success'
                   : msg.trim()
-                  ? 'bg-brand-success text-black hover:scale-[1.02] active:scale-[0.98] shadow-[0_0_30px_rgba(0,217,142,0.2)]'
+                  ? 'bg-brand-success text-white hover:scale-[1.02] active:scale-[0.98] shadow-[0_0_30px_rgba(5,150,105,0.2)]'
                   : 'bg-white/5 border border-white/8 text-white/20 cursor-not-allowed'
               }`}
             >

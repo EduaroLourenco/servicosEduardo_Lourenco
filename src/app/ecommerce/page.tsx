@@ -25,8 +25,8 @@ export default function EcommercePage() {
     <div className="flex flex-col gap-16 md:gap-24">
       <SidebarNav sections={ECOMMERCE_SECTIONS} title="E-commerce" />
 
-      {/* ── BACKGROUND: EXECUTIVE OLED DARK MODE ── */}
-      <div className="fixed inset-0 -z-50 pointer-events-none bg-[#050505]" />
+      {/* ── BACKGROUND: EXECUTIVE GRAPHITE ── */}
+      <div className="fixed inset-0 -z-50 pointer-events-none bg-slate-900" />
       <div className="fixed inset-0 -z-40 pointer-events-none overflow-hidden opacity-10">
         <div className="absolute w-[800px] h-[800px] bg-brand-success/5 blur-[160px] rounded-full -top-1/4 -right-1/4" />
       </div>
@@ -50,8 +50,8 @@ export default function EcommercePage() {
           </h1>
 
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-start mt-8 md:mt-12">
-             <div className="lg:col-span-4 space-y-8 md:space-y-12">
-                <p className="text-base md:text-lg text-foreground/50 leading-relaxed font-light">
+              <div className="lg:col-span-4 space-y-8 md:space-y-12 text-container">
+                <p className="text-base md:text-lg text-slate-200 leading-relaxed font-light">
                    Gestão estratégica para e-commerce de escala industrial. Substituímos o &quot;hype&quot; de marketing por precisão de dados, focando em ROAS, margens de lucro e logística de alta complexidade.
                 </p>
 
@@ -119,10 +119,10 @@ export default function EcommercePage() {
       {/* ── NOVA SEÇÃO: ESTRATÉGIA DE CANAIS & ECOSSISTEMA ── */}
       <section id="estrategia" className="container mx-auto px-6 pt-16 md:pt-24 border-t border-white/5">
         <div className="space-y-12 md:space-y-16">
-          <div className="max-w-3xl">
+          <div className="max-w-3xl text-container">
             <span className="text-[9px] md:text-[10px] font-mono text-brand-success mb-3 md:mb-4 block uppercase tracking-widest italic">Alicerce Digital: ESTRATÉGIA_OMNICHANNEL</span>
             <h2 className="text-2xl md:text-3xl font-bold mb-4 md:mb-6 text-white tracking-tight">O Ecossistema de Vendas</h2>
-            <p className="text-base md:text-lg text-foreground/50 leading-relaxed font-light">
+            <p className="text-base md:text-lg text-slate-200 leading-relaxed font-light">
               A dominação de mercado não acontece em um único canal. Estruturamos a presença da marca em múltiplos marketplaces, conectando a flagship store a hubs de alta vazão.
             </p>
           </div>
@@ -140,13 +140,13 @@ export default function EcommercePage() {
       </section>
 
       {/* ── CASE STUDY: LOGÍSTICA DE CARGAS PESADAS (+40KG) ── */}
-      <section id="logistica" className="container mx-auto px-6 pt-16 md:pt-24 border-t border-white/5">
+      <section id="logistica" className="container mx-auto px-6 pt-16 md:pt-24 border-t border-slate-800">
         <div className="flex flex-col gap-12 mb-16 md:mb-32">
            <div className="space-y-8 max-w-4xl">
               <div>
                 <span className="text-[9px] md:text-[10px] font-mono text-brand-success mb-3 md:mb-4 block uppercase tracking-widest">Estudo de Caso: LOGÍSTICA PESADA</span>
                 <h2 className="text-2xl md:text-3xl font-bold mb-4 md:mb-6 text-white tracking-tight">Cargas Industriais (+40kg)</h2>
-                <p className="text-base md:text-lg text-foreground/50 leading-relaxed font-light">
+                <p className="text-base md:text-lg text-slate-200 leading-relaxed font-light">
                    Resolvendo o gargalo invisível do e-commerce industrial: a entrega de produtos acima de 40kg. Integração de sistemas TMS com fluxos de ERP.
                 </p>
                 
@@ -179,7 +179,7 @@ export default function EcommercePage() {
               </div>
            </div>
 
-           <div className="w-full bg-white/[0.01] border border-white/5 rounded-2xl md:rounded-[3rem] p-4 md:p-8 overflow-x-auto">
+           <div className="w-full bg-slate-800/50 border border-slate-700 rounded-2xl md:rounded-[3rem] p-4 md:p-8 overflow-x-auto">
               <MarketplaceDataGrid />
            </div>
         </div>
@@ -190,10 +190,10 @@ export default function EcommercePage() {
         <div className="flex flex-col gap-20 md:gap-32">
            
            <div className="space-y-10 md:space-y-12">
-              <div className="max-w-xl">
+              <div className="max-w-xl text-container">
                  <span className="text-[9px] md:text-[10px] font-mono text-brand-primary mb-3 md:mb-4 block uppercase tracking-widest">Seção 02: ENGENHARIA DE LUCRO</span>
                  <h2 className="text-2xl md:text-3xl font-bold mb-4 md:mb-6 text-white tracking-tight">Modelagem Financeira</h2>
-                 <p className="text-sm md:text-base text-foreground/50 leading-relaxed font-light">
+                 <p className="text-sm md:text-base text-slate-300 leading-relaxed font-light">
                     Escalar sem visibilidade de margem é perigoso. Construímos simuladores que consideram impostos e taxas de marketplace antes de iniciar qualquer campanha.
                  </p>
               </div>
@@ -201,10 +201,10 @@ export default function EcommercePage() {
            </div>
 
            <div className="space-y-10 md:space-y-12" id="funil">
-              <div className="max-w-xl">
+              <div className="max-w-xl text-container">
                  <span className="text-[9px] md:text-[10px] font-mono text-brand-indigo mb-3 md:mb-4 block uppercase tracking-widest">Seção 03: ARQUITETURA DE CONVERSÃO</span>
                  <h2 className="text-2xl md:text-3xl font-bold mb-4 md:mb-6 text-white tracking-tight">Aquisição Full-Funnel</h2>
-                 <p className="text-sm md:text-base text-foreground/50 leading-relaxed font-light">
+                 <p className="text-sm md:text-base text-slate-300 leading-relaxed font-light">
                     Conduzindo usuários da descoberta à confiança técnica. Nossa lógica de funil é baseada em autoridade institucional e prova técnica.
                  </p>
               </div>
@@ -215,7 +215,7 @@ export default function EcommercePage() {
       </section>
 
       {/* ── CRM & RETENÇÃO ── */}
-      <section className="container mx-auto px-6 pt-16 md:pt-24 border-t border-white/5">
+      <section className="container mx-auto px-6 pt-16 md:pt-24 border-t border-slate-800">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
            <SpotlightCard className="p-8 md:p-12 border-white/5 bg-white/[0.01]" spotlightColor="rgba(79, 70, 229, 0.03)">
               <PieChart className="w-8 h-8 md:w-10 md:h-10 text-brand-indigo/40 mb-6 md:mb-8" />

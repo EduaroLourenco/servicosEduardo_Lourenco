@@ -58,10 +58,10 @@ export default function FormacaoPage() {
   return (
     <div className="flex flex-col gap-24 pb-32">
       
-      {/* ── BACKGROUND: EXECUTIVE OLED DARK MODE ── */}
-      <div className="fixed inset-0 -z-50 pointer-events-none bg-[#050505]" />
+      {/* ── BACKGROUND: EXECUTIVE GRAPHITE ── */}
+      <div className="fixed inset-0 -z-50 pointer-events-none bg-slate-900" />
       <div className="fixed inset-0 -z-40 pointer-events-none overflow-hidden opacity-10">
-        <div className="absolute w-[800px] h-[800px] bg-brand-primary/5 blur-[160px] rounded-full -top-1/4 -right-1/4" />
+        <div className="absolute w-[800px] h-[800px] bg-brand-blue/5 blur-[160px] rounded-full -top-1/4 -right-1/4" />
       </div>
 
       {/* HERO SECTION */}
@@ -72,14 +72,14 @@ export default function FormacaoPage() {
           transition={{ duration: 0.8 }}
           className="max-w-4xl mx-auto"
         >
-          <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-white/10 bg-white/5 text-foreground/60 font-mono tracking-widest uppercase mb-6 text-[10px]">
+          <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-white/10 bg-white/5 text-slate-400 font-mono tracking-widest uppercase mb-6 text-[10px]">
             HISTÓRICO TÉCNICO
           </span>
-          <h1 className="text-4xl md:text-[3.5rem] font-bold tracking-tight mb-8 text-white leading-tight">
-            Credenciais Acadêmicas & <br />
-            <span className="text-foreground/40">Técnicas Estratégicas.</span>
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-12 text-white leading-[1.1]">
+            A ponte exata entre o <br />
+            <span className="text-slate-500 italic">Código e o Fluxo de Caixa.</span>
           </h1>
-          <p className="text-base md:text-lg text-foreground/60 max-w-2xl mx-auto font-light leading-relaxed">
+          <p className="text-base md:text-lg text-slate-300 max-w-2xl mx-auto font-light leading-relaxed text-container">
             Uma base combinada de Engenharia de Software e Administração Estratégica, aplicada a ecossistemas B2B e operações industriais de alta escala.
           </p>
         </motion.div>

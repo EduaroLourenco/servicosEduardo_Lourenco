@@ -14,8 +14,8 @@ export default function EngenhariaPage() {
   return (
     <div className="flex flex-col gap-24 pb-32">
 
-      {/* ── BACKGROUND: EXECUTIVE OLED DARK MODE ── */}
-      <div className="fixed inset-0 -z-50 pointer-events-none bg-[#050505]" />
+      {/* ── BACKGROUND: EXECUTIVE GRAPHITE ── */}
+      <div className="fixed inset-0 -z-50 pointer-events-none bg-slate-900" />
       <div className="fixed inset-0 -z-40 pointer-events-none overflow-hidden opacity-10">
         <div className="absolute w-[800px] h-[800px] bg-brand-indigo/5 blur-[160px] rounded-full -top-1/4 -right-1/4" />
       </div>
@@ -35,12 +35,12 @@ export default function EngenhariaPage() {
 
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-8 text-white">
             Arquitetura de Software &<br />
-            <span className="text-foreground/40">Engenharia de Operações.</span>
+            <span className="text-slate-400">Engenharia de Operações.</span>
           </h1>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-start mt-12">
-             <div className="space-y-12">
-                <p className="text-lg text-foreground/50 leading-relaxed font-light max-w-xl">
+             <div className="space-y-12 text-container">
+                <p className="text-lg text-slate-200 leading-relaxed font-light max-w-xl">
                    Desenvolvimento do backbone técnico para escala comercial industrial. Além de APIs convencionais, construímos pontes robustas entre ERPs Industriais e Hubs de E-commerce e logística complexa via TMS, garantindo integridade absoluta de dados.
                 </p>
                 
@@ -48,7 +48,7 @@ export default function EngenhariaPage() {
                 <div className="flex flex-wrap gap-4">
                    <button 
                      onClick={() => document.getElementById('erp-bridge')?.scrollIntoView({ behavior: 'smooth' })}
-                     className="px-6 py-3 rounded-xl bg-white/5 border border-white/10 text-[10px] font-bold uppercase tracking-widest text-white/40 hover:text-white hover:bg-white/10 transition-all"
+                     className="px-6 py-3 rounded-xl bg-white/5 border border-white/10 text-[10px] font-bold uppercase tracking-widest text-slate-400 hover:text-white hover:bg-white/10 transition-all"
                    >
                      Integração ERP
                    </button>
@@ -81,13 +81,13 @@ export default function EngenhariaPage() {
       </section>
 
       {/* ── PROJETO 1: PONTE DE INTEGRAÇÃO ERP ── */}
-      <section id="erp-bridge" className="container mx-auto px-6 pt-24 border-t border-white/5">
+      <section id="erp-bridge" className="container mx-auto px-6 pt-24 border-t border-slate-800">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
            <div className="space-y-8">
-              <div>
+              <div className="text-container">
                 <span className="text-[10px] font-mono text-brand-primary mb-4 block uppercase tracking-widest">Caso_01: SISTEMA_ERP_BRIDGE</span>
                 <h2 className="text-3xl font-bold mb-6 text-white tracking-tight">Integração OMS & ERP Industrial</h2>
-                <p className="text-foreground/50 leading-relaxed font-light text-base mb-6">
+                <p className="text-slate-200 leading-relaxed font-light text-base mb-6">
                   Desenvolvimento de middleware de alta performance para sincronização de pedidos industriais em massa diretamente no Microsoft Dynamics. Eliminação total de erros manuais.
                 </p>
                 <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-lg bg-brand-primary/5 border border-brand-primary/20 text-[9px] font-bold text-brand-primary uppercase tracking-widest">
@@ -126,11 +126,11 @@ export default function EngenhariaPage() {
       </section>
 
       {/* ── PROJETO 2: SISTEMA DE GESTÃO DE O.S. FULLSTACK ── */}
-      <section id="os-system" className="container mx-auto px-6 pt-32 border-t border-white/5">
-        <div className="text-center mb-20 max-w-3xl mx-auto">
+      <section id="os-system" className="container mx-auto px-6 pt-32 border-t border-slate-800">
+        <div className="text-center mb-20 max-w-3xl mx-auto text-container">
           <span className="text-[10px] font-mono text-brand-success mb-4 block uppercase tracking-widest">Caso_02: ENGINE_DE_PROTOCOLOS</span>
           <h2 className="text-3xl font-bold mb-6 text-white tracking-tight">Sistema de O.S. (Assistência Técnica)</h2>
-          <p className="text-foreground/50 leading-relaxed font-light text-base">
+          <p className="text-slate-200 leading-relaxed font-light text-base">
             Plataforma proprietária desenvolvida com **NestJS** e **Prisma ORM** para gerenciar o ciclo de vida completo de operações de assistência técnica com evidências criptográficas.
           </p>
         </div>

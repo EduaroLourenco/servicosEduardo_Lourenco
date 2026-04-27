@@ -75,7 +75,7 @@ export function SidebarNav({ sections, title = 'Nesta Página' }: SidebarNavProp
                 {/* Active indicator dot on the line */}
                 <div className={`absolute -left-4 top-1/2 -translate-y-1/2 -translate-x-1/2 w-1.5 h-1.5 rounded-full transition-all duration-300 ${
                   isActive
-                    ? 'bg-brand-primary shadow-[0_0_8px_rgba(255,215,0,0.8)] scale-100'
+                    ? 'bg-brand-primary shadow-[0_0_8px_rgba(37,99,235,0.8)] scale-100'
                     : 'bg-white/15 scale-75 group-hover:bg-white/30'
                 }`} />
 
